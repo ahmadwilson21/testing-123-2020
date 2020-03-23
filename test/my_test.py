@@ -1,4 +1,6 @@
-from my_script import enlarge
+# testing-123-2020/test/my_test.py
+
+from app.my_script import enlarge
 
 
 def test_enlarge():
