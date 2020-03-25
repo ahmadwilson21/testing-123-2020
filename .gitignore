@@ -1,4 +1,4 @@
-.DS_store
+.DS_Store
 
 # ignore byproducts of the testing process
 __pycache__

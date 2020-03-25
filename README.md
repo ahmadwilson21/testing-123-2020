@@ -3,6 +3,9 @@
 ## Setup
 
 ##Usage
+```sh
+conda activate testing-123-env
+```
 
 Run the script:
 
