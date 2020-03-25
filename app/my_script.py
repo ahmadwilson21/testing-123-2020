@@ -16,3 +16,5 @@ if __name__ == "__main__":
     #n = enlarge(8)
     n = enlarge(my_number)
     print ("ENLARGING THE NUMBER: ", n)
+
+    #Git Tests
