@@ -3,6 +3,6 @@
 from app.new_feature import announce
 
 
-def announce_test():
+def test_announce():
     result = announce()
     assert result == "Hello World"
