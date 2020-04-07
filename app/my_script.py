@@ -1,7 +1,7 @@
 # testing-123-2020/app/my_script.py
 
 def enlarge(i):
-    return i *100
+    return i *1
 
 #Need to remove from global scope in order to import other things from this script
 #my_number = float(input("Please input a number:"))
